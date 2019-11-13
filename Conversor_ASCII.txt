@@ -1,7 +1,7 @@
 ; USART ASCII - Binario.asm
 ;
 ; Created: 24/10/2019 18:19:03 p. m.
-; Author : Emmanuel, Nicolás, Eusebio, Naomi
+; Author : Emmanuel Chablé, Nicolás Canul, Eusebio Ajas, Naomi García
 
 
 .include<m328pdef.inc>
@@ -13,7 +13,7 @@ start:
 	ldi r18, 48
 	ldi r26, 48
 	ldi r27, 48
-	ldi r20, 150
+	ldi r20, 8
 
 	call UART_CONFIG
 	call ASCII
