@@ -1,0 +1,31 @@
+int SENSOR;
+float TEMPERATURA;
+float SUMA;
+
+void setup() {
+  Serial.begin(9600);
+
+}
+
+void loop() {
+
+  SENSOR = analogRead(A0);
+  TEMPERATURA  = ((SENSOR * 5000.0) / 1023) / 10;
+  Serial.println(TEMPERATURA);
+  delay(2000);
+  /*
+  SUMA = 0;
+
+  for (int i = 0; i < 5; i++)
+  {
+    
+    SENSOR = analogRead(A0);
+    TEMPERATURA  = ((SENSOR * 5000.0) / 1023) / 10;
+    SUMA += TEMPERATURA;
+    delay(500);
+
+  }
+
+  Serial.println(SUMA / 5.0, 1);
+*/
+}
