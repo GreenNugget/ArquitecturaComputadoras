@@ -1,0 +1,49 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\Release</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\Release\Proyecto_Final.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Proyecto_Final.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Proyecto_Final.map</FILE>
+  <FILE>Proyecto_Final.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>24</LINE></START>
+  <UART_CONFIG><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>261</LINE></UART_CONFIG>
+  <CICLO><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>47</LINE></CICLO>
+  <adcInit2><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>297</LINE></adcInit2>
+  <adcRead><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>307</LINE></adcRead>
+  <adcWait><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>314</LINE></adcWait>
+  <DIVIDIR><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>328</LINE></DIVIDIR>
+  <ASCII><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>237</LINE></ASCII>
+  <UART_TRANSMIT><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>275</LINE></UART_TRANSMIT>
+  <adcInit><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>287</LINE></adcInit>
+  <BOTON1><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>339</LINE></BOTON1>
+  <BOTON2><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>347</LINE></BOTON2>
+  <delay_100ms><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>384</LINE></delay_100ms>
+  <L_CENTENA><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>238</LINE></L_CENTENA>
+  <L_DECENA><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>244</LINE></L_DECENA>
+  <L_UNIDAD><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>250</LINE></L_UNIDAD>
+  <L_FIN><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>256</LINE></L_FIN>
+  <UART_FREE><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>281</LINE></UART_FREE>
+  <DECIMAL_1><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>334</LINE></DECIMAL_1>
+  <delay_10ms><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>357</LINE></delay_10ms>
+  <repetir1><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>359</LINE></repetir1>
+  <repetir><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>361</LINE></repetir>
+  <delay_500ms><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Proyecto_Final\Proyecto_Final\main.asm</FILE><LINE>374</LINE></delay_500ms>
+ </LABELS>
+</ASSEMBLER_INFO>

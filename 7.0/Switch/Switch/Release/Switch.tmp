@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\naomi\Documents\Atmel Studio\7.0\Switch\Switch\Release</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Switch\Switch\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Switch\Switch\Release\Switch.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Switch.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Switch.map</FILE>
+  <FILE>Switch.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Switch\Switch\main.asm</FILE><LINE>15</LINE></start>
+  <CICLO><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Switch\Switch\main.asm</FILE><LINE>20</LINE></CICLO>
+  <BOTON_OFF><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Switch\Switch\main.asm</FILE><LINE>36</LINE></BOTON_OFF>
+  <BOTON_ON><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Switch\Switch\main.asm</FILE><LINE>31</LINE></BOTON_ON>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\naomi\Documents\Atmel Studio\7.0\Parpadeo2\Parpadeo2\Release</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Parpadeo2\Parpadeo2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Parpadeo2\Parpadeo2\Release\Parpadeo2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Parpadeo2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Parpadeo2.map</FILE>
+  <FILE>Parpadeo2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Parpadeo2\Parpadeo2\main.asm</FILE><LINE>18</LINE></start>
+  <delay_1000ms><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Parpadeo2\Parpadeo2\main.asm</FILE><LINE>37</LINE></delay_1000ms>
+  <repetir2><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Parpadeo2\Parpadeo2\main.asm</FILE><LINE>40</LINE></repetir2>
+  <repetir1><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Parpadeo2\Parpadeo2\main.asm</FILE><LINE>43</LINE></repetir1>
+  <repetir><FILE>c:\users\naomi\Documents\Atmel Studio\7.0\Parpadeo2\Parpadeo2\main.asm</FILE><LINE>46</LINE></repetir>
+ </LABELS>
+</ASSEMBLER_INFO>

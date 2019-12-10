@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "AutoFantastico2", "AutoFantastico2\AutoFantastico2.asmproj", "{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}"
+EndProject
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "LedParpadeo", "..\LedParpadeo\LedParpadeo\LedParpadeo.asmproj", "{592D9F6F-94FF-430C-B8E9-5C11DF20B761}"
+EndProject
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "Switch", "..\Switch\Switch\Switch.asmproj", "{70B4AF50-7286-46C1-A722-96E88622CEBB}"
+EndProject
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "ContadorBinario", "..\ContadorBinario\ContadorBinario\ContadorBinario.asmproj", "{413A0130-1E41-4A3D-8DD4-7D039CAB1196}"
+EndProject
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "Auto Fantastico (FINAL)", "..\ContadorBinario\AF\AF\Auto Fantastico (FINAL).asmproj", "{9FFA77F2-4D00-4C9A-8FFF-533AFFA8BB98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}.Debug|AVR.ActiveCfg = Debug|AVR
+		{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}.Debug|AVR.Build.0 = Debug|AVR
+		{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}.Release|AVR.ActiveCfg = Release|AVR
+		{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}.Release|AVR.Build.0 = Release|AVR
+		{592D9F6F-94FF-430C-B8E9-5C11DF20B761}.Debug|AVR.ActiveCfg = Debug|AVR
+		{592D9F6F-94FF-430C-B8E9-5C11DF20B761}.Debug|AVR.Build.0 = Debug|AVR
+		{592D9F6F-94FF-430C-B8E9-5C11DF20B761}.Release|AVR.ActiveCfg = Release|AVR
+		{592D9F6F-94FF-430C-B8E9-5C11DF20B761}.Release|AVR.Build.0 = Release|AVR
+		{70B4AF50-7286-46C1-A722-96E88622CEBB}.Debug|AVR.ActiveCfg = Debug|AVR
+		{70B4AF50-7286-46C1-A722-96E88622CEBB}.Debug|AVR.Build.0 = Debug|AVR
+		{70B4AF50-7286-46C1-A722-96E88622CEBB}.Release|AVR.ActiveCfg = Release|AVR
+		{70B4AF50-7286-46C1-A722-96E88622CEBB}.Release|AVR.Build.0 = Release|AVR
+		{413A0130-1E41-4A3D-8DD4-7D039CAB1196}.Debug|AVR.ActiveCfg = Debug|AVR
+		{413A0130-1E41-4A3D-8DD4-7D039CAB1196}.Debug|AVR.Build.0 = Debug|AVR
+		{413A0130-1E41-4A3D-8DD4-7D039CAB1196}.Release|AVR.ActiveCfg = Release|AVR
+		{413A0130-1E41-4A3D-8DD4-7D039CAB1196}.Release|AVR.Build.0 = Release|AVR
+		{9FFA77F2-4D00-4C9A-8FFF-533AFFA8BB98}.Debug|AVR.ActiveCfg = Debug|AVR
+		{9FFA77F2-4D00-4C9A-8FFF-533AFFA8BB98}.Debug|AVR.Build.0 = Debug|AVR
+		{9FFA77F2-4D00-4C9A-8FFF-533AFFA8BB98}.Release|AVR.ActiveCfg = Release|AVR
+		{9FFA77F2-4D00-4C9A-8FFF-533AFFA8BB98}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
